@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 Explore the structure of your actual data files
@@ -46,4 +45,4 @@ def explore_data_files():
             print(f"Error reading GN file: {e}")
 
 if __name__ == "__main__":
-    explore_data_files()cat > scripts/explore_data.py
+    explore_data_files()

@@ -1,0 +1,21 @@
+document_id,title,year,citations,field,region,journal_quartile
+DOC_0000,Global North Research 0,2016,88,Social Sciences,North America,Q1
+DOC_0001,Global North Research 1,2013,59,Humanities,Europe,Q2
+DOC_0002,Global North Research 2,2022,40,STEM,East Asia,Q3
+DOC_0003,Global North Research 3,2020,28,Medical,Oceania,Q4
+DOC_0004,Global North Research 4,2017,14,Social Sciences,North America,Q1
+DOC_0005,Global North Research 5,2022,44,Humanities,Europe,Q2
+DOC_0006,Global North Research 6,2014,64,STEM,East Asia,Q3
+DOC_0007,Global North Research 7,2016,88,Medical,Oceania,Q4
+DOC_0008,Global North Research 8,2019,70,Social Sciences,North America,Q1
+DOC_0009,Global North Research 9,2012,8,Humanities,Europe,Q2
+DOC_0010,Global North Research 10,2016,87,STEM,East Asia,Q3
+DOC_0011,Global North Research 11,2020,0,Medical,Oceania,Q4
+DOC_0012,Global North Research 12,2020,7,Social Sciences,North America,Q1
+DOC_0013,Global North Research 13,2017,87,Humanities,Europe,Q2
+DOC_0014,Global North Research 14,2014,62,STEM,East Asia,Q3
+DOC_0015,Global North Research 15,2013,10,Medical,Oceania,Q4
+DOC_0016,Global North Research 16,2017,80,Social Sciences,North America,Q1
+DOC_0017,Global North Research 17,2017,7,Humanities,Europe,Q2
+DOC_0018,Global North Research 18,2012,34,STEM,East Asia,Q3
+DOC_0019,Global North Research 19,2015,34,Medical,Oceania,Q4

@@ -1,0 +1,25 @@
+
+COLONIALITY ANALYSIS PROJECT - REPORT
+Generated on: 2025-11-27 20:19:19
+Data Source: SAMPLE
+
+DATASET OVERVIEW:
+- Global South publications: 100
+- Global North publications: 100
+- Total publications analyzed: 200
+
+KEY FINDINGS:
+1. Dataset successfully loaded and analyzed
+2. Basic comparative analysis completed
+3. Visualizations generated in results/graphics/
+4. Summary tables saved in results/tables/
+
+NEXT STEPS:
+- Conduct advanced statistical analysis
+- Perform topic modeling on publication titles
+- Analyze collaboration patterns
+- Examine citation networks
+
+---
+This is an automated report from the Coloniality Analysis Project.
+    

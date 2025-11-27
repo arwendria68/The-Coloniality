@@ -1,0 +1,33 @@
+
+COLONIALITY ANALYSIS PROJECT - COMPREHENSIVE REPORT
+Generated on: 2025-11-27 21:02:40
+
+DATASET OVERVIEW:
+- Global South publications: 1752
+- Global North publications: 3170
+- Total publications analyzed: 4922
+
+KEY COMPARATIVE FINDINGS:
+
+1. PUBLICATION VOLUME:
+   - GS/GN Ratio: 55.27%
+   - Year Range - GS: 2018-2025
+   - Year Range - GN: 2015-2025
+
+2. ENGAGEMENT METRICS:
+   - GS Average Views: 0.0 | Downloads: 0.0
+   - GN Average Views: 0.0 | Downloads: 0.0
+
+3. RESEARCH FOCUS:
+   - Analysis of epistemic categories and research domains completed
+   - Country distribution analysis completed
+
+NEXT RESEARCH QUESTIONS TO EXPLORE:
+- Deep dive into epistemic category differences
+- Keyword analysis for topic modeling
+- Citation analysis (if citation data available)
+- Collaboration patterns between regions
+
+---
+This report generated from actual research data for coloniality analysis.
+    
